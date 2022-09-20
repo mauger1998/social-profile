@@ -94,6 +94,12 @@ body {
     border-radius: 100%;
     border:1px solid white;
     width:110px;
+    transition: 0.5s;
+}
+.shot:hover {
+    width:120px;
+    transition:0.5s;
+    cursor: pointer;
 }
 .line {
     color:hsl(0, 0%, 59%);

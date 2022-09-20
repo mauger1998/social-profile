@@ -4,5 +4,19 @@
     box-sizing: border-box;
 }
 body {
+    border:1px solid white;
+    height:100vh;
     background-color: hsl(185, 75%, 39%);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.main-container {
+    border:1px solid white;
+    /*width:400px;
+    height:450px;*/
+    display:flex;
+    flex-direction: column;
+
 }

@@ -86,8 +86,9 @@ body {
 }
 .shot {
     position: absolute;
-    top:39%;
+    top:38%;
     border-radius: 100%;
     border:1px solid white;
+    width:110px;
 }
 

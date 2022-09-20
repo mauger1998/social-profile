@@ -19,7 +19,6 @@ body {
     display:flex;
     flex-direction: column;
     align-items: center;
-    justify-content: flex-start;
     border-radius: 25px;
     background-color: white;
 
@@ -35,6 +34,14 @@ body {
     width:350px;
     height:175px;
     border-radius: 25px 25px 0 0;
+}
+.text {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border:1px solid black;
+    height:225px;
 }
 
 

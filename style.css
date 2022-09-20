@@ -8,10 +8,14 @@
 body {
     
     height:100vh;
-    background-color: hsl(185, 75%, 39%);
+    
     display:flex;
     justify-content: center;
     align-items: center;
+    background: url(images/bgr.svg);
+    background: url(images/bgl.svg);
+    background-color: hsl(185, 75%, 39%);
+
 
 }
 .main-container {

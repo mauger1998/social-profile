@@ -14,13 +14,23 @@ body {
 }
 .main-container {
     border:1px solid white;
-    /*width:400px;
-    height:450px;*/
+    width:350px;
+    height:400px;
     display:flex;
     flex-direction: column;
     align-items: center;
+    justify-content: flex-start;
 
 } 
 .title-container {
     display:flex;
 }
+
+.stats-box {
+    display:flex;
+}
+.header {
+    width:350px;
+    height:175px;
+}
+

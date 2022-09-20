@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Kumbh Sans', sans-serif;
+
 }
 body {
     border:1px solid white;
@@ -25,6 +27,7 @@ body {
 } 
 .title-container {
     display:flex;
+    gap:10px;
 }
 
 .stats-box {
@@ -50,7 +53,8 @@ body {
     border:1px solid black;
     align-items: center;
     justify-content: center;
-    font-size:30px;
+    font-size:20px;
+    gap:20px;
 }
 
 

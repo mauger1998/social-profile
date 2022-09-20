@@ -16,7 +16,7 @@ body {
 }
 .main-container {
     border:1px solid white;
-    width:350px;
+    width:375px;
     height:400px;
     display:flex;
     flex-direction: column;
@@ -34,8 +34,8 @@ body {
     display:flex;
 }
 .header {
-    width:350px;
-    height:150px;
+    width:375px;
+    height:162px;
     border-radius: 25px 25px 0 0;
 }
 .text {
@@ -61,6 +61,7 @@ body {
 }
 .age {
     font-weight: 400;
+    color:hsl(0, 0%, 59%);
 }
 
 
